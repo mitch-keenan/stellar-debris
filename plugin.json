@@ -1,0 +1,57 @@
+{
+  "slug": "StellarDebris",
+  "name": "Stellar Debris",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Stellar Debris",
+  "author": "Stellar Debris",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "DroneVoice",
+      "name": "Drone Voice",
+      "description": "Five-oscillator drone voice inspired by the Solar 42F Classic voices",
+      "tags": [
+        "Oscillator",
+        "Voice",
+        "Polyphonic"
+      ]
+    },
+    {
+      "slug": "FMVoice",
+      "name": "FM Voice",
+      "description": "FM/AM synthesis voice inspired by the Solar 42F Papa Srapa voices",
+      "tags": [
+        "Oscillator",
+        "Voice",
+        "FM"
+      ]
+    },
+    {
+      "slug": "SubtractiveVoice",
+      "name": "Subtractive Voice",
+      "description": "Dual VCO subtractive voice with ADSR inspired by the Solar 42F",
+      "tags": [
+        "Oscillator",
+        "Voice",
+        "Polyphonic"
+      ]
+    },
+    {
+      "slug": "DualFilter",
+      "name": "Dual Filter",
+      "description": "Dual Polivoks-inspired filter with distortion",
+      "tags": [
+        "Filter",
+        "Distortion",
+        "Dual"
+      ]
+    }
+  ]
+}
