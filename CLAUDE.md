@@ -38,6 +38,9 @@
 3. Add the source to `test/Makefile` SOURCES list
 4. Add `run_your_component_tests()` call in `test/test_main.cpp`
 
+## Changelog
+After completing work, summarize what was done in `CHANGELOG.md`. Add a new dated section at the top (below the `# Changelog` heading) describing what was created/changed, key design decisions, and verification status. This helps other agents understand the project history and avoids duplicated effort.
+
 ## Adding a New Module
 1. Create `src/YourModule.cpp` with Module, Widget, and Model
 2. Add `extern Model* modelYourModule;` to `src/plugin.hpp`
